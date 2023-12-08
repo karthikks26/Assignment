@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
  
  
- # Fist run npm i and then npm run dev
+ # First run npm i and then npm run dev
